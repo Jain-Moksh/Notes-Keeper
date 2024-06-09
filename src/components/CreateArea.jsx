@@ -33,13 +33,13 @@ function CreateArea(props) {
       <form>
         <input
           name="title"
-          placeholder="Title"
+          placeholder="PROJECT"
           value={ip.title}
           onChange={handleChange}
         />
         <textarea
           name="content"
-          placeholder="Take a note..."
+          placeholder="DESCRIPTION OF PROJECT"
           rows="3"
           value={ip.content}
           onChange={handleChange}

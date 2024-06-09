@@ -19,9 +19,9 @@ header {
 }
 
 header h1 {
-  color: #fff;
+  color: #000;
   font-family: "McLaren", cursive;
-  font-weight: 200;
+  font-weight: 900;
 }
 
 footer {
